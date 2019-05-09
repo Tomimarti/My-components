@@ -1,0 +1,10 @@
+<footer>
+    <div class= "wrapper">
+      <small>©2017<strong>Awesome Company</strong>, All Rights Reserved</small>
+      <nav>
+        <a href= "#">Back to top</a>
+        <a href= "#">Terms of use</a>
+        <a href= "#">Privacy</a>
+      </nav>
+    </div>
+  </footer>
